@@ -1,2 +1,2 @@
 # FreeHostingIndex
-sch: https://www.google.com/search?q=free+php+hosting, https://www.google.com/search?q=free+php+hosting+no+credit+card
+sch: https://www.google.com/search?q=free+web+hosting https://www.google.com/search?q=free+php+hosting, https://www.google.com/search?q=free+php+hosting+no+credit+card
