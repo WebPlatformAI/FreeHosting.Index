@@ -9,7 +9,8 @@ parent company: https://iFastNet.com
 https://www.facebook.com/free.byethost
 
 ## Knowledgebase:
-https://tutorials.ifastnet.com/
+- https://tutorials.ifastnet.com/
+- https://kb.ifastnet.com/
 
 ## Forum:
 https://www.byet.net/
